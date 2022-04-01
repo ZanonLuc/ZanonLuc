@@ -1,4 +1,4 @@
-<h1> Hi! My name is Lucas Zanon. </h1>
+<h1> Olá! Eu sou o Lucas Zanon. </h1>
 
 <div>
   <a href="https://github.com/ZanonLuc">
