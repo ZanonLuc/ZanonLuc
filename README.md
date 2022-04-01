@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/ZanonLuc">
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=zanonluc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanonLuc&layout=compact&langs_count=7&theme=dark" />
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=zanonluc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanonLuc&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
  <br>
 <div  align="center"> 
@@ -24,5 +24,5 @@
  
 </div>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZanonLuc&repo=github-readme-stats)](https://github.com/ZanonLuc/github-readme-stats)
+
 
