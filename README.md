@@ -24,5 +24,5 @@
  
 </div>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ZanonLuc=ZanonLuc&repo=github-readme-stats)](https://github.com/ZanonLuc/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZanonLuc)](https://github.com/ZanonLuc/github-readme-stats)
 
