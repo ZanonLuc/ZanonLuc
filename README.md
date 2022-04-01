@@ -5,7 +5,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=zanonluc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanonLuc&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://tenor.com/view/code-programmer-jim-carrey-developer-hacker-gif-15199933">
+  <img align="center" width="148" height="180" src="https://tenor.com/view/typing-jim-carrey-fast-busy-gif-4903969">
 </div>
  <br>
 <div  align="center"> 
