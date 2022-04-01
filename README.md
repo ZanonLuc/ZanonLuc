@@ -22,4 +22,4 @@
   <a href = "mailto:zanon626@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
 </div>
 ![Snake animation](https://github.com/ZanonLuc/ZanonLuc/blob/output/github-contribution-grid-snake.svg)
- 
+
