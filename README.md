@@ -4,8 +4,6 @@
   <a href="https://github.com/ZanonLuc">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=zanonluc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanonLuc&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
 </div>
  <br>
 <div  align="center"> 
