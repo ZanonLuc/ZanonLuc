@@ -24,5 +24,5 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ZanonLuc&repo=ZanonLuc&theme=react)](https://github.com/ZanonLuc/ZanonLuc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ZanonLuc=ZanonLuc&repo=github-readme-stats)](https://github.com/ZanonLuc/github-readme-stats)
 
